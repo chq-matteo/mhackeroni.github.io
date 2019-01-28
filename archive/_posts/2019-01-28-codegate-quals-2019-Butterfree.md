@@ -31,7 +31,7 @@ https://bugs.webkit.org/show_bug.cgi?id=125059
 In the end the solution to the challenge is
 
 ```
-> console.log(readFile('flag'))
+> readFile('flag')
 flag{4240a8444fe8734044fca90700b3ade2}
 ```
 
